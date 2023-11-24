@@ -1,0 +1,13 @@
+.tabla-estilizada {
+    border: 2px solid black; 
+    border-collapse: collapse; 
+
+}
+
+.tabla-estilizada th, .tabla-estilizada td {
+    padding: 8px; 
+}
+
+.tabla-estilizada tr:nth-child(odd) {
+    background-color: #f2f2f2; 
+}

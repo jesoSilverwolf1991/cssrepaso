@@ -1,0 +1,12 @@
+.mayusculas {
+    text-transform: uppercase;
+}
+
+p{
+    color:white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+body{
+    background-color: rgb(186, 24, 51);
+}
